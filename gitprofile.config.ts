@@ -57,9 +57,9 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'Thugger069',
+    linkedin: 'ƭɦµɠɠε૨069',
     twitter: 'chuksgincaro',
-    mastodon: 'thugger069@mastodon.social',
+    mastodon: 'ƭɦµɠɠε૨069@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -70,7 +70,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: 'LysergicProtocol',
-    dev: 'Thugger069',
+    dev: 'ƭɦµɠɠε૨069',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -100,15 +100,15 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: '𝚃𝚎𝚌𝚑𝚃𝚛𝚎𝚗𝚍 𝙸𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚘𝚗𝚜',
+      position: '𝚂𝚎𝚗𝚒𝚘𝚛 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛',
+      from: '𝚂𝚎𝚙𝚝𝚎𝚖𝚋𝚎𝚛 𝟸𝟶𝟸𝟷',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: '𝙽𝚎𝚡𝚝𝙶𝚎𝚗 𝚂𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜',
+      position: '𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛',
       from: 'July 2019',
       to: 'August 2021',
       companyLink: 'https://example.com',
@@ -116,22 +116,28 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: '𝙰𝚆𝚂 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝚂𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝',
+      body: '𝙰𝚜𝚜𝚘𝚌𝚒𝚊𝚝𝚎 𝙰𝚖𝚊𝚣𝚘𝚗 𝚆𝚎𝚋 𝚂𝚎𝚛𝚟𝚒𝚌𝚎𝚜 (𝙰𝚆𝚂)',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+    {
+      name: '𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚎𝚍 𝙺𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜 𝙰𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚝𝚘𝚛 (𝙲𝙺𝙰)',
+      body: '𝙲𝚕𝚘𝚞𝚍 𝙽𝚊𝚝𝚒𝚟𝚎 𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐 𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚗 (𝙲𝙽𝙲𝙵)',
       year: 'March 2022',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: '𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝙲𝚊𝚕𝚒𝚏𝚘𝚛𝚗𝚒𝚊, 𝙱𝚎𝚛𝚔𝚎𝚕𝚎𝚢',
+      degree: '𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 𝚘𝚏 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎',
       from: '2015',
       to: '2019',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: '𝙲𝚘𝚖𝚖𝚞𝚗𝚒𝚝𝚢 𝙲𝚘𝚕𝚕𝚎𝚐𝚎 𝚘𝚏 𝚂𝚊𝚗 𝙵𝚛𝚊𝚗𝚌𝚒𝚜𝚌𝚘',
+      degree: '𝙰𝚜𝚜𝚘𝚌𝚒𝚊𝚝𝚎 𝚘𝚏 𝙰𝚛𝚝𝚜 𝚒𝚗 𝙼𝚊𝚝𝚑𝚎𝚖𝚊𝚝𝚒𝚌𝚜',
       from: '2012',
       to: '2014',
     },
